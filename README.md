@@ -126,13 +126,3 @@ accelerate launch --num_processes=1 --gpu_ids="0," --main_process_port 29300 src
 
 
 
-
-## :notebook: License
-
-This project is released under the [Apache 2.0 license](LICENSE).
-
-
-## :envelope: Contact
-
-If you have any questions, please feel free to contact zhangaip7@mail2.sysu.edu.cn.
-
